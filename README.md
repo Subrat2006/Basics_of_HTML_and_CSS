@@ -35,6 +35,4 @@ This is the Boiler Plate of HTML:
 </body>
 </html>
 ```
-```
 For extended Learning: https://www.w3schools.com/html/html_intro.asp
-```
