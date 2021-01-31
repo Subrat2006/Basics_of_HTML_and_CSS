@@ -17,3 +17,4 @@ The HTML Code will contain some codes like:
 These are the Comments in HTML 👆
 ```
 The HTML Files have .html or .htm as their extension!
+```
