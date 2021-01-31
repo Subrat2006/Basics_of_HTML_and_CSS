@@ -15,3 +15,5 @@ You will also find the HTML Codes in the files section!
 The HTML Code will contain some codes like:
 <img src = "HTML Code 2.png"></img>
 These are the Comments in HTML 👆
+```
+The HTML Files have .html or .htm as their extension!
