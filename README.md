@@ -18,3 +18,23 @@ These are the Comments in HTML 👆
 ```
 The HTML Files have .html or .htm as their extension!
 ```
+```
+Write <p></p> to start a paragraph and all the contents of paragraph between these 2
+```
+```
+This is the Boiler Plate of HTML:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+```
+For extended Learning: https://www.w3schools.com/html/html_intro.asp
+```
