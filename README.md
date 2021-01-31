@@ -46,3 +46,7 @@ For this, you just have to write this in your head o the HTML Document:
 REMEMBER:
 The CSS File have aan extension as .css
 ```
+OR
+```
+You can just write all the codes of CSS in the HTML File itself! [By putting <style></style> in the Head of the HTML File
+```
