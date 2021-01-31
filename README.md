@@ -36,3 +36,13 @@ This is the Boiler Plate of HTML:
 </html>
 ```
 For extended Learning: https://www.w3schools.com/html/html_intro.asp
+
+```
+NOTE:
+You can also make HTML File and CSS File seperately and after that, you can put a command for attaching the CSS File to HTML File!
+For this, you just have to write this in your head o the HTML Document:
+<link rel="stylesheet" href="Name of your CSS File ">
+
+REMEMBER:
+The CSS File have aan extension as .css
+```
